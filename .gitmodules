@@ -1,6 +1,6 @@
 [submodule "bdl-frontend"]
 	path = bdl-frontend
-	url = https://lab.ssafy.com/rich-beggar/bdl-frontend.git
+	url = https://github.com/junyoungBae1/BLD-frontend
 [submodule "bdl-backend"]
 	path = bdl-backend
 	url = https://github.com/junyoungBae1/BDL-backend.git
