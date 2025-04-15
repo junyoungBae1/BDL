@@ -3,7 +3,7 @@
 	url = https://lab.ssafy.com/rich-beggar/bdl-frontend.git
 [submodule "bdl-backend"]
 	path = bdl-backend
-	url = https://lab.ssafy.com/rich-beggar/bdl-backend.git
+	url = https://github.com/junyoungBae1/BDL-backend.git
 [submodule "bdl-backend-fast-api"]
 	path = bdl-backend-fast-api
 	url = https://lab.ssafy.com/rich-beggar/bdl-backend-fast-api.git
