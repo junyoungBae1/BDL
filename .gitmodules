@@ -6,4 +6,4 @@
 	url = https://github.com/junyoungBae1/BDL-backend.git
 [submodule "bdl-backend-fast-api"]
 	path = bdl-backend-fast-api
-	url = https://lab.ssafy.com/rich-beggar/bdl-backend-fast-api.git
+	url = https://github.com/junyoungBae1/BDL-backend-fast-api
